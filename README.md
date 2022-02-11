@@ -1,3 +1,9 @@
+# Aaron's Wordle
+
+Currently, made with all 5-letter words from Rebecca's PhD thesis.
+
+---
+
 # Vue Wordle
 
 [Live demo](https://vue-wordle.netlify.app/)
