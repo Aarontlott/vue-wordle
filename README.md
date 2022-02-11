@@ -1,6 +1,6 @@
-# Aaron's Wordle
+# Bible Wordle
 
-Currently, made with all 5-letter words from Rebecca's PhD thesis.
+Currently, made with all 5-letter words from the KJV of the Bible.
 
 ---
 
