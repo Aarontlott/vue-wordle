@@ -1,10 +1,10 @@
-# Aaron's Wordle
+# Scots Wordle
 
-Currently, made with all 5-letter words from Rebecca's PhD thesis.
+Made with all 5-letter Scots words from [Mudcat Cafe](https://mudcat.org/scots/display_all.cfm).
 
 ---
 
-# Vue Wordle
+# Forked from: Vue Wordle
 
 [Live demo](https://vue-wordle.netlify.app/)
 
