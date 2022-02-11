@@ -182,7 +182,7 @@ function genResultGrid() {
     <h1>SCOTSRDLE</h1>
     <a
       id="source-link"
-      href="https://github.com/yyx990803/vue-wordle"
+      href="https://github.com/Aarontlott/vue-wordle"
       target="_blank"
       >Source</a
     >
